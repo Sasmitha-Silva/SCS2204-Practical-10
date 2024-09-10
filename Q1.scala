@@ -17,7 +17,11 @@ class Rational(n: Int, d: Int) {
 @main
 def main(): Unit = {
 
-  val x = new Rational(3, 0)
+  val x = new Rational(3, 4)
   println(x.neg) 
 
 }
+
+
+
+
